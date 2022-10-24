@@ -152,10 +152,6 @@ public class Exercise {
                 for (int rows = 0; rows < 4; rows++) {
  
                         System.out.println("");
- 
-  // Get the SUM
-
-        System.out.println("6. SUM");
 
                 int [][] two  = {{1,1,1},{1,1,1},{1,1,1}, {1, 1, 1}};
 
